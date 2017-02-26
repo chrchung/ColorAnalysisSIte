@@ -1,24 +1,26 @@
 <section class="fig-container" id="sentence_length_preferences">
-    <h1>Most Distinctive Clauses</h1>
+    <h1>Most Distinctive Decades</h1>
 
     <p>
-        The first column is the name color name.
-        Columns 2-5 are the abs(actual - expected)/expected for
-        sentences with a particular amount of clauses (1, 2, 3, 4, ...).
+        The first column is the name of the code.
+        For each color, columns 2-5 are the abs(actual - expected)/expected values of each decade.
     </p>
 
     <table class="ui very basic collapsing celled table" style="width:70%; margin:auto;">
         <thead>
         <tr>
             <th>Color</th>
-            <th>1</th>
-            <th>2</th>
-            <th>3</th>
-            <th>4</th>
-            <th>5-10</th>
-            <th>11-15</th>
-            <th>16-21</th>
-            <th>22+</th>
+            <th>1800-1810</th>
+            <th>1810-1820</th>
+            <th>1820-1830</th>
+            <th>1830-1840</th>
+            <th>1840-1850</th>
+            <th>1850-1860</th>
+            <th>1860-1870</th>
+            <th>1870-1880</th>
+            <th>1880-1890</th>
+            <th>1890-1900</th>
+
         </tr>
         </thead>
 
@@ -49,10 +51,10 @@
                 <div ng-show="oc >= 0.1 && oc < 0.15" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.6)">{{ Math.round(oc * 100) / 100 }}
                 </div>
 
-                <div ng-show="oc >= 0.05 && oc < 0.1" style="width: 25px; margin: auto;height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.8)">{{ Math.round(oc * 100) / 100 }}
+                <div ng-show="oc >= 0.01 && oc < 0.1" style="width: 25px; margin: auto;height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.8)">{{ Math.round(oc * 100) / 100 }}
                 </div>
 
-                <div ng-show="oc >= 0.0 && oc < 0.05" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 1.0)">{{ Math.round(oc * 100) / 100 }}
+                <div ng-show="oc >= 0.0 && oc < 0.01" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 1.0)">{{ Math.round(oc * 100) / 100 }}
                 </div>
             </td>
         </tr>
