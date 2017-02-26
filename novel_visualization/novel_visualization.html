@@ -1,0 +1,17 @@
+<section class="fig-container" id="novel_visualization">
+
+    <h1>Novel Visualizations</h1>
+    <p style="">Below are visualizations of
+        color mentions in 10 novels. The visualization on the left
+        plots color based on the index they occur.
+        The visualization on the right plots colors based on how frequenctly
+        they are used in the book (i.e. frequent colors take up a larger amount of space).
+    </p>
+
+    <div style="text-align:center;margin-bottom:10px" ng-repeat="novel in novels">
+        <img style="display:inline-block;width:40%;margin:auto;" ng-src="{{novel.index}}"/>
+        <img style="display:inline-block;width:40%;margin:auto;" ng-src="{{novel.mention}}"/>
+
+        <p><b>{{novel.author}}</b><br>{{novel.title}}</p>
+    </div>
+</section>
