@@ -38,11 +38,20 @@ app.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
             templateUrl: 'novel_visualization/novel_visualization.html',
             controller: 'novelVisualizationCtrl'
         });
-    
+
     $stateProvider
         .state('most_distinctive_decades', {
             url: '/most_distinctive_decades',
             templateUrl: 'most_distinctive_decades/most_distinctive_decades.html',
             controller: 'mostDistinctiveDecadesCtrl'
         });
+
+
+    $stateProvider
+        .state('dramatic_changes_between_decades', {
+            url: '/dramatic_changes_between_decades',
+            templateUrl: 'dramatic_changes_between_decades/dramatic_changes_between_decades.html',
+            controller: 'dramaticChangesBtweenDecadesCtrl'
+        });
+
 });
