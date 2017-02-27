@@ -51,7 +51,7 @@ app.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
         .state('dramatic_changes_between_decades', {
             url: '/dramatic_changes_between_decades',
             templateUrl: 'dramatic_changes_between_decades/dramatic_changes_between_decades.html',
-            controller: 'dramaticChangesBtweenDecadesCtrl'
+            controller: 'dramaticChangesBetweenDecadesCtrl'
         });
 
 });
