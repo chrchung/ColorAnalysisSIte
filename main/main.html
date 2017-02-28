@@ -1,13 +1,30 @@
 <header id="main">
 
-    <h1>Color Analysis in 19th Century English Literature</h1>
+    <!--<h1>Color Analysis in 19th Century English Literature</h1>-->
+    <div class="logo text-center">
+        <img src="assets/bg.png"/>
+        <p><b>COLOR ANALYSIS IN 19TH CENTURY LITERATURE</b></p>
 
-    <a href="#stats" class="start"><i class="massive chevron down icon"></i></a>
+        <!--<a class="start"><i class="massive chevron down icon"></i></a>-->
+    </div>
 </header>
 
-<section class="gen-container" id="stats">
-    <h1>Click to view</h1>
+<section class="gen-container" id="about">
+    <div class="text-center">
+        <h1>ABOUT</h1>
+        <p>
+            This project approaches literature from a computational standpoint. We apply natural language processing, statistics, and data visualization techniques to the analysis of 19th century literature.
+            Our main research question is whether the use of complex colors, like ochre, are found in more complex contexts, and whether, analogously, simple colors like red are found in more simple contexts. Of course, complexity can mean many things, so we've collected 100+ features of sentences (e.g. vocabulary richness, periodicity, average word length, etc.) that are all facets of complexity. There are also simpler trends that we are looking at – such as whether mentions of colors with the base color red (e.g. crimson, scarlet, etc.) increased over the course of the 19th century, and whether the parts-of-speech of colors changed over time (e.g. are they more frequently present as adjectives than nouns).
+        </p>
+    </div>
 
+</section>
+
+<section class="gen-container" id="stats">
+    <div class="text-center">
+        <h1>ANALYSIS & VISUALIZATIONS</h1>
+    </div>
+    <br>
     <button ui-sref="mentions_per_decade" class="ui red button">Color mentions over the decades</button>
     <button ui-sref="most_distinctive_decades" class="ui yellow button">Most distinctive decades</button>
     <button ui-sref="dramatic_changes_between_decades" class="ui green button">Colors with most dramatic spikes and dips over time</button>
@@ -29,6 +46,6 @@
 </section>
 
 <footer class="text-center">
-    <b>Stanford Literary Lab</b><br>
+    <b>STANFORD LITERARY LAB</b><br>
     <a href="https://litlab.stanford.edu">https://litlab.stanford.edu/</a>
 </footer>
