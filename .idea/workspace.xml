@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="65212e35-55e1-49f3-bcde-93a72c5742a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dramatic_changes_between_decades/dramatic_changes_between_decades.html" afterPath="$PROJECT_DIR$/dramatic_changes_between_decades/dramatic_changes_between_decades.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/main.html" afterPath="$PROJECT_DIR$/main/main.html" />
     </list>
     <ignored path="ColorAnalysisApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,8 +54,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="123" column="25" selection-start-line="123" selection-start-column="25" selection-end-line="123" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -380,7 +378,7 @@
       <workItem from="1487988635500" duration="17612000" />
       <workItem from="1488244354977" duration="4041000" />
       <workItem from="1488263866329" duration="19000" />
-      <workItem from="1488303775066" duration="7911000" />
+      <workItem from="1488303775066" duration="8024000" />
     </task>
     <task id="LOCAL-00001" summary="Most dramatic colors">
       <created>1488080977001</created>
@@ -487,11 +485,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488391671758</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="font page styling modification">
+      <created>1489100642812</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1489100642812</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29583000" />
+    <option name="totallyTimeSpent" value="29696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="369" y="23" width="877" height="737" extended-state="0" />
@@ -556,7 +561,8 @@
     <MESSAGE value="bg" />
     <MESSAGE value="fonts" />
     <MESSAGE value="spikes dips" />
-    <option name="LAST_COMMIT_MESSAGE" value="spikes dips" />
+    <MESSAGE value="font page styling modification" />
+    <option name="LAST_COMMIT_MESSAGE" value="font page styling modification" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -944,8 +950,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+        <state relative-caret-position="225">
+          <caret line="123" column="25" selection-start-line="123" selection-start-column="25" selection-end-line="123" selection-end-column="25" />
           <folding />
         </state>
       </provider>
