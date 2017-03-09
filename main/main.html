@@ -25,27 +25,36 @@
         <h1>ANALYSIS & VISUALIZATIONS</h1>
     </div>
     <br>
-    <button ui-sref="mentions_per_decade" class="ui red button">Color mentions over the decades</button>
-    <button ui-sref="most_distinctive_decades" class="ui yellow button">Most distinctive decades</button>
-    <button ui-sref="dramatic_changes_between_decades" class="ui green button">Dramatic spikes and dips</button>
+    <!--<div class="row">-->
+        <!--<div class="visualization-nav">-->
+            <!--<div ui-sref="mentions_per_decade" class="vis col-xs-6">Color mentions over the decades</div>-->
+            <!--<div ui-sref="most_distinctive_decades" class="vis col-xs-6">Most distinctive decades</div>-->
+        <!--</div>-->
+        <!--<div class="visualization-nav">-->
+            <!--<div ui-sref="dramatic_changes_between_decades" class="vis col-xs-6">Dramatic spikes and dips</div>-->
+            <!--<div ui-sref="sentence_length_preferences" class="vis col-xs-6">Most distinctive sentences</div>-->
+        <!--</div>-->
 
-    <button ui-sref="sentence_length_preferences" class="ui orange button">Most distinctive sentences</button>
-    <button ui-sref="number_of_clauses_preferences" class="ui yellow button">Most distinctive clauses</button>
-    <button ui-sref="novel_visualization" class="ui olive button">Novel visualizations</button>
+        <!--<div class="visualization-nav">-->
+            <!--<div ui-sref="number_of_clauses_preferences" class="vis col-xs-6">Most distinctive clauses</div>-->
+            <!--<div ui-sref="novel_visualization" class="vis col-xs-6">Novel visualizations</div>-->
+        <!--</div>-->
 
+    <!--</div>-->
 
-    <!--<button class="ui teal button">Teal</button>-->
-    <!--<button class="ui blue button">Blue</button>-->
-    <!--<button class="ui cviolet button">Violet</button>-->
-    <!--<button class="ui purple button">Purple</button>-->
-    <!--<button class="ui pink button">Pink</button>-->
-    <!--<button class="ui brown button">Brown</button>-->
-    <!--<button class="ui grey button">Grey</button>-->
-    <!--<button class="ui black button">Black</button>-->
+    <div class="">
+        <div style="background-color:#7effed;" ui-sref="mentions_per_decade" class="vis">Color mentions over the decades</div>
+        <div style="background-color:#ffffa9;" ui-sref="most_distinctive_decades" class="vis">Most distinctive decades</div>
+        <div style="background-color:#ffdee4;" ui-sref="dramatic_changes_between_decades" class="vis">Dramatic spikes and dips</div>
+        <div style="background-color:#c9e2f8;" ui-sref="sentence_length_preferences" class="vis">Most distinctive sentences</div>
+        <div style="background-color:#ffd6be;" ui-sref="number_of_clauses_preferences" class="vis">Most distinctive clauses</div>
+        <div style="background-color:#e2fee2;" ui-sref="novel_visualization" class="vis">Novel visualizations</div>
+    </div>
+
 
 </section>
 
-<footer class="text-center">
+<footer class="footer text-center">
     <b>STANFORD LITERARY LAB</b><br>
     <a href="https://litlab.stanford.edu">https://litlab.stanford.edu/</a>
 </footer>

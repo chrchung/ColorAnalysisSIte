@@ -12,7 +12,7 @@
 <script type="text/javascript" src="angular-ui-router.min.js"></script>
 
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=0.5, maximum-scale=0.5, user-scalable=no" />
+    <meta name="viewport" content="width=device-width" />
     <base href="/">
     <style>
         @font-face {
@@ -98,11 +98,44 @@
         }
 
         footer {
-            background-color: #e8ffe8;
+            background-color: #65dfe2;
             padding: 20px;
         }
 
+        .vis {
+            padding: 7% 3% 7% 3%;
+            text-align: center;
+            width: 49.5%;
+            margin-bottom: 0.5%;
+            display: inline-block;
+            cursor: pointer;
+        }
+ç
+        .vis:hover {
+            opacity: 0.5;
+        }
 
+
+        @media screen and (max-width: 700px) {
+            .vis {
+                font-size: 14px;
+            }
+
+
+        }
+
+       @media screen and (max-width: 600px) {
+            .vis {
+                padding: 7% 3% 7% 3%;
+                text-align: center;
+                width: 100%;
+                margin-bottom: 0.5%;
+                display: inline-block;
+                cursor: pointer;
+            }
+
+
+        }
     </style>
 </head>
 <body>
