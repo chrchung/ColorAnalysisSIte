@@ -57,8 +57,8 @@ app.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
     $stateProvider
         .state('distinctive_heights', {
             url: '/distinctive_heights',
-            templateUrl: 'distinctive_periods/distinctive_periods.html',
-            controller: 'distinctivePeriodsCtrl'
+            templateUrl: 'distinctive_periodicities/distinctive_periodicities.html',
+            controller: 'distinctivePeriodicitiesCtrl'
         });
 
     $stateProvider
