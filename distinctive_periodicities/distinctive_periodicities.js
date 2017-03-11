@@ -2,7 +2,7 @@ app.controller('distinctivePeriodicitiesCtrl', function($scope, Restangular, $st
 
     $scope.colors = [];
 
-    Restangular.all('/json/distinctive_perio.json')
+    Restangular.all('/json/distinctive_periods.json')
         .getList().then(function (serverJson) {
         $scope.colors = serverJson;
     });
