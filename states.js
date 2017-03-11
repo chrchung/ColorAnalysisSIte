@@ -54,4 +54,18 @@ app.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
             controller: 'dramaticChangesBetweenDecadesCtrl'
         });
 
+    $stateProvider
+        .state('distinctive_heights', {
+            url: '/distinctive_heights',
+            templateUrl: 'distinctive_heights/distinctive_heights.html',
+            controller: 'distinctiveHeightsCtrl'
+        });
+
+    $stateProvider
+        .state('distinctive_periodicities', {
+            url: '/distinctive_periodicities',
+            templateUrl: 'distinctive_periodicities/distinctive_periodicities.html',
+            controller: 'distinctivePeriodicitiesCtrl'
+        });
+
 });

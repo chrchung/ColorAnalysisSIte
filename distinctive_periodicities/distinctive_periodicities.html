@@ -1,0 +1,63 @@
+<section class="fig-container" >
+    <h1>Most Distinctive Periodicities</h1>
+
+    <p>
+        The first column is the name of the code.
+        For each color, columns 2-5 are the abs(actual - expected)/expected values of each periodicity.
+    </p>
+
+    <table class="ui very basic collapsing celled table" style="width:70%; margin:auto;">
+        <thead>
+        <tr>
+            <th>Color</th>
+            <th>-1-1</th>
+            <th>1-2</th>
+            <th>2-3</th>
+            <th>3-4</th>
+            <th>4-7</th>
+            <th>7-14</th>
+            <th>14-23</th>
+            <th>23-46</th>
+            <th>46+</th>
+
+        </tr>
+        </thead>
+
+        <tr ng-repeat="color in colors">
+            <td style="font-size:13px;">{{ color.name }}</td>
+            <td ng-repeat="oc in color.p track by $index">
+                <div ng-show="oc >= 0.882" style="width: 25px; margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.1)">{{ Math.round(oc * 100) / 100 }}
+                </div>
+
+                <div ng-show="oc >= 0.622 && oc < 0.882" style="width: 25px; margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.2)">{{ Math.round(oc * 100) / 100 }}
+                </div>
+
+                <div ng-show="oc >= 0.472 && oc < 0.622" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.2)">{{ Math.round(oc * 100) / 100 }}
+                </div>
+
+                <div ng-show="oc >= 0.342 && oc < 0.472" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.2)">{{ Math.round(oc * 100) / 100 }}
+                </div>
+
+                <div ng-show="oc >= 0.241 && oc < 0.342" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.3)">{{ Math.round(oc * 100) / 100 }}
+                </div>
+
+                <div ng-show="oc >= 0.153 && oc < 0.241" style="width: 25px; margin: auto;height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.5)">{{ Math.round(oc * 100) / 100 }}
+                </div>
+
+                <div ng-show="oc >= 0.075 && oc < 0.153" style="width: 25px; margin: auto;height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.7)">{{ Math.round(oc * 100) / 100 }}
+                </div>
+
+                <div ng-show="oc >= 0.038 && oc < 0.075" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.8)">{{ Math.round(oc * 100) / 100 }}
+                </div>
+
+                <div ng-show="oc >= 0.007 && oc < 0.038" style="width: 25px; margin: auto;height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 1.0)">{{ Math.round(oc * 100) / 100 }}
+                </div>
+
+                <div ng-show="oc < 0.007" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 1.0)">{{ Math.round(oc * 100) / 100 }}
+                </div>
+            </td>
+        </tr>
+    </table>
+</section>
+
+
