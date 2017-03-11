@@ -57,15 +57,15 @@ app.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
     $stateProvider
         .state('distinctive_heights', {
             url: '/distinctive_heights',
-            templateUrl: 'distinctive_periodicities/distinctive_periodicities.html',
-            controller: 'distinctivePeriodicitiesCtrl'
+            templateUrl: 'distinctive_heights/distinctive_heights.html',
+            controller: 'distinctiveHeightsCtrl'
         });
 
     $stateProvider
         .state('distinctive_periodicities', {
             url: '/distinctive_periodicities',
-            templateUrl: 'distinctive_heights/distinctive_heights.html',
-            controller: 'distinctiveHeightsCtrl'
+            templateUrl: 'distinctive_periodicities/distinctive_periodicities.html',
+            controller: 'distinctivePeriodicitiesCtrl'
         });
 
 });
