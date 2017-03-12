@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65212e35-55e1-49f3-bcde-93a72c5742a1" name="Default" comment="change">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_periodicities.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_periodicities.js" />
+    <list default="true" id="65212e35-55e1-49f3-bcde-93a72c5742a1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/clause_dep.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_periodicities.html" afterPath="$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_dependent_clauses.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_periodicities.js" afterPath="$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_dependent_clauses.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sentences.json" afterPath="$PROJECT_DIR$/assets/sentences.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sentence_length_preferences/sentence_length_preferences.html" afterPath="$PROJECT_DIR$/sentence_length_preferences/sentence_length_preferences.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/clause.json" afterPath="$PROJECT_DIR$/assets/clause.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/main.html" afterPath="$PROJECT_DIR$/main/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/number_of_clauses_preferences/number_of_clauses_preferences.html" afterPath="$PROJECT_DIR$/number_of_clauses_preferences/number_of_clauses_preferences.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/states.js" afterPath="$PROJECT_DIR$/states.js" />
     </list>
     <ignored path="ColorAnalysisApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,62 +31,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="distinctive_periodicities.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distinctive_periodicities/distinctive_periodicities.html">
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#6;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#7;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#9;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dramatic_changes_between_decades.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dramatic_changes_between_decades/dramatic_changes_between_decades.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="509">
+              <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="distinctive_periodicities.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distinctive_periodicities/distinctive_periodicities.js">
+      <file leaf-file-name="states.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/states.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="distinctive_periods.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/distinctive_periods.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="distinctive_heights.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distinctive_heights/distinctive_heights.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            <state relative-caret-position="621">
+              <caret line="74" column="56" selection-start-line="74" selection-start-column="56" selection-end-line="74" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -131,28 +94,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="number_of_clauses_preferences.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/number_of_clauses_preferences/number_of_clauses_preferences.html">
+      <file leaf-file-name="number_of_clauses_preferences.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/number_of_clauses_preferences/number_of_clauses_preferences.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#6;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#7;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#9;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sentence_length_preferences.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="158" column="72" selection-start-line="158" selection-start-column="72" selection-end-line="158" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sentence_length_preferences.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sentence_length_preferences/sentence_length_preferences.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -173,11 +135,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="distinctive_periodicities.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_periodicities.html">
+      <file leaf-file-name="distinctive_dependent_clauses.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_dependent_clauses.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="207">
+              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="distinctive_dependent_clauses.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_dependent_clauses.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="47" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -202,18 +174,20 @@
         <option value="$PROJECT_DIR$/dramatic_changes_between_decades/dramatic_changes_between_decades.js" />
         <option value="$PROJECT_DIR$/mentions_per_decade/mentions_per_decade.html" />
         <option value="$PROJECT_DIR$/dramatic_changes_between_decades/dramatic_changes_between_decades.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/disinctive_periodicities/distinctive_periodicities.js" />
         <option value="$PROJECT_DIR$/disinctive_periodicities/distinctive_periodicities.html" />
-        <option value="$PROJECT_DIR$/main/main.html" />
-        <option value="$PROJECT_DIR$/states.js" />
         <option value="$PROJECT_DIR$/distinctive_periodicities/distinctive_periodicities.js" />
         <option value="$PROJECT_DIR$/distinctive_heights/distinctive_heights.js" />
         <option value="$PROJECT_DIR$/most_distinctive_decades/most_distinctive_decades.html" />
         <option value="$PROJECT_DIR$/distinctive_heights/distinctive_heights.html" />
         <option value="$PROJECT_DIR$/distinctive_periodicities/distinctive_periodicities.html" />
-        <option value="$PROJECT_DIR$/number_of_clauses_preferences/number_of_clauses_preferences.html" />
         <option value="$PROJECT_DIR$/sentence_length_preferences/sentence_length_preferences.html" />
+        <option value="$PROJECT_DIR$/number_of_clauses_preferences/number_of_clauses_preferences.html" />
+        <option value="$PROJECT_DIR$/disintinctive_dependent_clauses/number_of_clauses_preferences.html" />
+        <option value="$PROJECT_DIR$/disintinctive_dependent_clauses/number_of_clauses_preferences.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/states.js" />
+        <option value="$PROJECT_DIR$/main/main.html" />
       </list>
     </option>
   </component>
@@ -223,10 +197,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1327" />
-    <option name="y" value="-211" />
-    <option name="width" value="1031" />
-    <option name="height" value="941" />
+    <option name="x" value="-1609" />
+    <option name="y" value="-247" />
+    <option name="width" value="1371" />
+    <option name="height" value="1002" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -441,6 +415,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/disintinctive_dependent_clauses" />
       <recent name="$PROJECT_DIR$/distinctive_dependent_clauses" />
       <recent name="$PROJECT_DIR$/distinctive_heights" />
       <recent name="$PROJECT_DIR$/disinctive_periodicities" />
@@ -519,7 +494,7 @@
       <workItem from="1488263866329" duration="19000" />
       <workItem from="1488303775066" duration="8649000" />
       <workItem from="1489183655032" duration="8288000" />
-      <workItem from="1489282041199" duration="5920000" />
+      <workItem from="1489282041199" duration="7366000" />
     </task>
     <task id="LOCAL-00001" summary="Most dramatic colors">
       <created>1488080977001</created>
@@ -752,22 +727,30 @@
       <option name="project" value="LOCAL" />
       <updated>1489351222731</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="change">
+      <created>1489352862661</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1489352862661</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44529000" />
+    <option name="totallyTimeSpent" value="45975000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1327" y="-211" width="1031" height="941" extended-state="0" />
+    <frame x="-1609" y="-247" width="1371" height="1002" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.319802" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23925926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24943566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10600707" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10549451" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -775,7 +758,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -830,29 +812,14 @@
     <MESSAGE value="change metrics" />
     <MESSAGE value="bugs" />
     <MESSAGE value="change metric" />
-    <option name="LAST_COMMIT_MESSAGE" value="change metric" />
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="100" column="37" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dramatic_changes_between_decades/dramatic_changes_between_decades.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1078,13 +1045,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/number_of_clauses_preferences/number_of_clauses_preferences.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/most_distinctive_decades/most_distinctive_decades.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1122,39 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2475">
-          <caret line="165" column="9" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#section#1;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#section#1;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#section#1;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#1;n#section#1;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#4;n#div#1;n#section#1;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#5;n#div#1;n#section#1;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#6;n#div#1;n#section#1;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#7;n#div#1;n#section#1;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/states.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1203,6 +1130,71 @@
         <state relative-caret-position="330">
           <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding>
+            <element signature="n#style#0;n#div#9;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distinctive_heights/distinctive_heights.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <marker date="1489347398000" expanded="true" signature="1237:1384" placeholder="..." />
+            <marker date="1489347398000" expanded="true" signature="1503:1649" placeholder="..." />
+            <marker date="1489347398000" expanded="true" signature="1768:1914" placeholder="..." />
+            <marker date="1489347398000" expanded="true" signature="2033:2179" placeholder="..." />
+            <marker date="1489347398000" expanded="true" signature="2298:2444" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_periodicities.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentence_length_preferences/sentence_length_preferences.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number_of_clauses_preferences/number_of_clauses_preferences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/number_of_clauses_preferences/number_of_clauses_preferences.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
             <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
@@ -1236,69 +1228,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/distinctive_heights/distinctive_heights.html">
+    <entry file="file://$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_dependent_clauses.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#7;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#8;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#9;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <marker date="1489347398000" expanded="true" signature="1237:1384" placeholder="..." />
-            <marker date="1489347398000" expanded="true" signature="1503:1649" placeholder="..." />
-            <marker date="1489347398000" expanded="true" signature="1768:1914" placeholder="..." />
-            <marker date="1489347398000" expanded="true" signature="2033:2179" placeholder="..." />
-            <marker date="1489347398000" expanded="true" signature="2298:2444" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/number_of_clauses_preferences/number_of_clauses_preferences.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#7;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#8;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#9;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_periodicities.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="47" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sentence_length_preferences/sentence_length_preferences.html">
+    <entry file="file://$PROJECT_DIR$/distinctive_dependent_clauses/distinctive_dependent_clauses.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#7;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#8;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#9;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="207">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/states.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="74" column="56" selection-start-line="74" selection-start-column="56" selection-end-line="74" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="158" column="72" selection-start-line="158" selection-start-column="72" selection-end-line="158" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>

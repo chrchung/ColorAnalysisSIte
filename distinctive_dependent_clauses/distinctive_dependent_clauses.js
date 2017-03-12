@@ -1,8 +1,8 @@
-app.controller('distinctivePeriodicitiesCtrl', function($scope, Restangular, $state) {
+app.controller('distinctiveDependentClausesCtrl', function($scope, Restangular, $state) {
 
     $scope.colors = [];
 
-    Restangular.all('/json/distinctive_periods.json')
+    Restangular.all('/json/clause_dep.json')
         .getList().then(function (serverJson) {
         $scope.colors = serverJson;
     });

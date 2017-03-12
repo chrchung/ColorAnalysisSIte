@@ -68,4 +68,12 @@ app.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
             controller: 'distinctivePeriodicitiesCtrl'
         });
 
+    $stateProvider
+        .state('distinctive_dependent_clauses', {
+            url: '/distinctive_dependent_clauses',
+            templateUrl: 'distinctive_dependent_clauses/distinctive_dependent_clauses.html',
+            controller: 'distinctiveDependentClausesCtrl'
+        });
+
+
 });
