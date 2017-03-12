@@ -23,36 +23,36 @@
         </thead>
 
         <tr ng-repeat="color in colors">
-            <td>{{ color.name }}</td>
+            <td style="font-size:13px;">{{ color.name }}</td>
             <td ng-repeat="oc in color.p track by $index">
-                <div ng-show="oc >= 1.2" style="width: 25px; margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.1)">{{ Math.round(oc * 100) / 100 }}
+                <div ng-show="oc >= 0.9" style="width: 25px; margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.1)">{{ Math.round(oc * 100) / 100 }}
                 </div>
 
-                <div ng-show="oc >= 1.01 && oc < 1.2" style="width: 25px; margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.2)">{{ Math.round(oc * 100) / 100 }}
+                <div ng-show="oc >= 0.5 && oc < 0.9" style="width: 25px; margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.2)">{{ Math.round(oc * 100) / 100 }}
                 </div>
 
-                <div ng-show="oc >= 0.75 && oc < 1.01" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.2)">{{ Math.round(oc * 100) / 100 }}
+                <div ng-show="oc >= 0.4 && oc < 0.5" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.2)">{{ Math.round(oc * 100) / 100 }}
                 </div>
 
-                <div ng-show="oc >= 0.56 && oc < 0.75" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.2)">{{ Math.round(oc * 100) / 100 }}
+                <div ng-show="oc >= 0.3 && oc < 0.4" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.3)">{{ Math.round(oc * 100) / 100 }}
                 </div>
 
-                <div ng-show="oc >= 0.40 && oc < 0.56" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.3)">{{ Math.round(oc * 100) / 100 }}
+                <div ng-show="oc >= 0.2 && oc < 0.3" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.6)">{{ Math.round(oc * 100) / 100 }}
                 </div>
 
-                <div ng-show="oc >= 0.28 && oc < 0.40" style="width: 25px; margin: auto;height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.5)">{{ Math.round(oc * 100) / 100 }}
+                <div ng-show="oc >= 0.1 && oc < 0.2" style="width: 25px; margin: auto;height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.8)">{{ Math.round(oc * 100) / 100 }}
                 </div>
 
-                <div ng-show="oc >= 0.14 && oc < 0.28" style="width: 25px; margin: auto;height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.7)">{{ Math.round(oc * 100) / 100 }}
+                <div ng-show="oc >= 0.05 && oc < 0.1" style="width: 25px; margin: auto;height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.9)">{{ Math.round(oc * 100) / 100 }}
                 </div>
 
-                <div ng-show="oc >= 0.07 && oc < 0.14" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.8)">{{ Math.round(oc * 100) / 100 }}
+                <div ng-show="oc >= 0.01 && oc < 0.05" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.9)">{{ Math.round(oc * 100) / 100 }}
                 </div>
 
-                <div ng-show="oc >= 0.014 && oc < 0.07" style="width: 25px; margin: auto;height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 1.0)">{{ Math.round(oc * 100) / 100 }}
+                <div ng-show="oc >= 0.005 && oc < 0.01" style="width: 25px; margin: auto;height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 0.9)">{{ Math.round(oc * 100) / 100 }}
                 </div>
 
-                <div ng-show="oc < 0.014" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 1.0)">{{ Math.round(oc * 100) / 100 }}
+                <div ng-show="oc < 0.005" style="width: 25px;margin: auto; height: 25px; color: white; line-height:25px; font-size: 10px; text-align: center; background-color:rgba(255, 0, 0, 1.0)">{{ Math.round(oc * 100) / 100 }}
                 </div>
             </td>
         </tr>
