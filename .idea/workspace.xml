@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="65212e35-55e1-49f3-bcde-93a72c5742a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/distinctive_heights.json" afterPath="$PROJECT_DIR$/assets/distinctive_heights.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/distinctive_heights/distinctive_heights.html" afterPath="$PROJECT_DIR$/distinctive_heights/distinctive_heights.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/distinctive_periodicities/distinctive_periodicities.html" afterPath="$PROJECT_DIR$/distinctive_periodicities/distinctive_periodicities.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/most_distinctive_decades/most_distinctive_decades.html" afterPath="$PROJECT_DIR$/most_distinctive_decades/most_distinctive_decades.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sentence_length_preferences/sentence_length_preferences.html" afterPath="$PROJECT_DIR$/sentence_length_preferences/sentence_length_preferences.html" />
     </list>
     <ignored path="ColorAnalysisApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="distinctive_heights.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="distinctive_heights.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/distinctive_heights/distinctive_heights.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="57" selection-end-column="13" />
+            <state relative-caret-position="329">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
@@ -110,11 +108,11 @@
                 <element signature="n#style#0;n#div#7;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#8;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#9;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-                <marker date="1489328815000" expanded="true" signature="1131:1278" placeholder="..." />
-                <marker date="1489328815000" expanded="true" signature="1397:1543" placeholder="..." />
-                <marker date="1489328815000" expanded="true" signature="1662:1808" placeholder="..." />
-                <marker date="1489328815000" expanded="true" signature="1927:2073" placeholder="..." />
-                <marker date="1489328815000" expanded="true" signature="2192:2338" placeholder="..." />
+                <marker date="1489347398000" expanded="true" signature="1237:1384" placeholder="..." />
+                <marker date="1489347398000" expanded="true" signature="1503:1649" placeholder="..." />
+                <marker date="1489347398000" expanded="true" signature="1768:1914" placeholder="..." />
+                <marker date="1489347398000" expanded="true" signature="2033:2179" placeholder="..." />
+                <marker date="1489347398000" expanded="true" signature="2298:2444" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -162,7 +160,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sentence_length_preferences.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sentence_length_preferences.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sentence_length_preferences/sentence_length_preferences.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
@@ -210,10 +208,10 @@
         <option value="$PROJECT_DIR$/distinctive_periodicities/distinctive_periodicities.js" />
         <option value="$PROJECT_DIR$/distinctive_heights/distinctive_heights.js" />
         <option value="$PROJECT_DIR$/number_of_clauses_preferences/number_of_clauses_preferences.html" />
-        <option value="$PROJECT_DIR$/distinctive_heights/distinctive_heights.html" />
         <option value="$PROJECT_DIR$/distinctive_periodicities/distinctive_periodicities.html" />
         <option value="$PROJECT_DIR$/most_distinctive_decades/most_distinctive_decades.html" />
         <option value="$PROJECT_DIR$/sentence_length_preferences/sentence_length_preferences.html" />
+        <option value="$PROJECT_DIR$/distinctive_heights/distinctive_heights.html" />
       </list>
     </option>
   </component>
@@ -223,10 +221,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="37" />
-    <option name="y" value="23" />
-    <option name="width" value="1145" />
-    <option name="height" value="726" />
+    <option name="x" value="-1216" />
+    <option name="y" value="-152" />
+    <option name="width" value="720" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -504,7 +502,7 @@
       <workItem from="1488263866329" duration="19000" />
       <workItem from="1488303775066" duration="8649000" />
       <workItem from="1489183655032" duration="8288000" />
-      <workItem from="1489282041199" duration="2840000" />
+      <workItem from="1489282041199" duration="3362000" />
     </task>
     <task id="LOCAL-00001" summary="Most dramatic colors">
       <created>1488080977001</created>
@@ -709,22 +707,29 @@
       <option name="project" value="LOCAL" />
       <updated>1489328630579</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="change metric">
+      <created>1489328891171</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1489328891171</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41449000" />
+    <option name="totallyTimeSpent" value="41971000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="23" width="1145" height="726" extended-state="0" />
+    <frame x="-1216" y="-152" width="720" height="784" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28736654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4620887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24943566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14195584" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1300578" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -786,7 +791,8 @@
     <MESSAGE value="bug fix" />
     <MESSAGE value="change metrics" />
     <MESSAGE value="bugs" />
-    <option name="LAST_COMMIT_MESSAGE" value="bugs" />
+    <MESSAGE value="change metric" />
+    <option name="LAST_COMMIT_MESSAGE" value="change metric" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1130,14 +1136,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/distinctive_heights/distinctive_heights.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/number_of_clauses_preferences/number_of_clauses_preferences.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
@@ -1170,26 +1168,6 @@
         <state relative-caret-position="60">
           <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distinctive_heights/distinctive_heights.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="57" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#7;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#8;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#9;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
-            <marker date="1489328815000" expanded="true" signature="1131:1278" placeholder="..." />
-            <marker date="1489328815000" expanded="true" signature="1397:1543" placeholder="..." />
-            <marker date="1489328815000" expanded="true" signature="1662:1808" placeholder="..." />
-            <marker date="1489328815000" expanded="true" signature="1927:2073" placeholder="..." />
-            <marker date="1489328815000" expanded="true" signature="2192:2338" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1254,6 +1232,34 @@
             <element signature="n#style#0;n#div#7;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#8;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#9;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distinctive_heights/distinctive_heights.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distinctive_heights/distinctive_heights.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#td#1;n#tr#0;n#table#0;n#section#0;n#!!top" expanded="true" />
+            <marker date="1489347398000" expanded="true" signature="1237:1384" placeholder="..." />
+            <marker date="1489347398000" expanded="true" signature="1503:1649" placeholder="..." />
+            <marker date="1489347398000" expanded="true" signature="1768:1914" placeholder="..." />
+            <marker date="1489347398000" expanded="true" signature="2033:2179" placeholder="..." />
+            <marker date="1489347398000" expanded="true" signature="2298:2444" placeholder="..." />
           </folding>
         </state>
       </provider>
