@@ -75,5 +75,11 @@ app.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
             controller: 'distinctiveDependentClausesCtrl'
         });
 
+    $stateProvider
+        .state('sentence_complexity', {
+            url: '/sentence_complexity',
+            templateUrl: 'sentence_complexity/sentence_complexity.html'
+
+        });
 
 });
